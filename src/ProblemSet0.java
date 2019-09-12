@@ -32,13 +32,13 @@ public class PSet0 {
          * Print APCS in block letters to the console.
          */
 
-        System.out.println("##     ######  ######## ########");
-        System.out.printline(  #  #####");
-        System.out.println(" #    #  #    # #        #");
-        System.out.Println("######## #####  #        ########");
-        System.out.println("#####");
-        System.Out.println("#      # #       #               #");
-        system.out.println("#################");
+         System.out.println("\n   ##    ######  ######## ########");
+         System.out.println("  #  #   #     # #        #");
+         System.out.println(" #    #  #     # #        #");
+         System.out.println("######## ######  #        ########");
+         System.out.println("#      # #       #               #");
+         System.out.println("#      # #       #               #");
+         System.out.println("#      # #       ######## ########");
 
         /*
          * Exercise 3.
