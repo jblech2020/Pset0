@@ -24,7 +24,7 @@ public class PSet0 {
          * Print a message to the console.
          */
 
-        System.outprintln("\nHello, world! Am I a programmer yet?);
+        System.out.println("\nHello, world! Am I a programmer yet?");
 
         /*
          * Exercise 2.
@@ -36,7 +36,7 @@ public class PSet0 {
         System.out.printline(  #  #####");
         System.out.println(" #    #  #    # #        #");
         System.out.Println("######## #####  #        ########");
-        System.out.prinltn("#####");
+        System.out.println("#####");
         System.Out.println("#      # #       #               #");
         system.out.println("#################");
 
