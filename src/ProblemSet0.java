@@ -14,7 +14,7 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-public class PSet0 {
+public class ProblemSet0 {
 
     public static void main(String[] args) {
 
@@ -67,54 +67,55 @@ public class PSet0 {
          * Print a to-do list to the console.
          */
 
-        System.out.println("Here's today's to-do list:");
-        System.out.println("\t- Go food shopping");
-        System.out.println("\t- Mow the lawn\n");
+         System.out.println("\nHere's today's to-do list:");
+         System.out.println("\t- Go food shopping");
+         System.out.println("\t- Mow the lawn");
 
-        /*
-         * Exercise 6.
-         *
-         * Print a square of text to the console.
-         */
+         /*
+          * Exercise 6.
+          *
+          * Print a square of text to the console.
+          */
 
-        System.out.println("H E L L O\nEA\nLP\nLC\nO A P C);
+         System.out.println("\nH E L L O\nE       A\nL       P\nL       C\nO A P C S");
 
-        /*
-         * Exercise 7.
-         *
-         * Print a countdown to the console.
-         */
+         /*
+          * Exercise 7.
+          *
+          * Print a countdown to the console.
+          */
 
-        System.out.println("Three.\tTwo.\tOne.\tGo!\n";
+         System.out.println("\nThree.\tTwo.\tOne.\tGo!");
 
-        /*
-         * Exercise 8.
-         *
-         * Print three diamonds to the console.
-         */
+         /*
+          * Exercise 8.
+          *
+          * Print three diamonds to the console.
+          */
 
-        System.out.println(     /\     /\");
-        System.out.printn(" /  \ /  \   /  \");
-        System.out.println("/    \   \ /    \");
-        System.out.printn("\    / \  \    /");
-        System.out.println(" \  /   \  /   \  /");
-        System.out.printn("  \/     \/   /")
+         System.out.println("\n  /\\    /\\    /\\");
+         System.out.println(" /  \\  /  \\  /  \\");
+         System.out.println("/    \\/    \\/    \\");
+         System.out.println("\\    /\\    /\\    /");
+         System.out.println(" \\  /  \\  /  \\  /");
+         System.out.println("  \\/    \\/    \\/");
 
-        /*
-         * Exercise 9.
-         *
-         * Print an encouraging message to the console.
-         */
+         /*
+          * Exercise 9.
+          *
+          * Print an encouraging message to the console.
+          */
 
-        System.out.println(You're almost done with your first problem set...);
+         System.out.println("\nYou're almost done with your first problem set...");
 
-        /*
-         * Exercise 10.
-         *
-         * Print a plus sign to the console.
-         */
+         /*
+          * Exercise 10.
+          *
+          * Print a plus sign to the console.
+          */
 
-        System.out.println("+---+||");
-        System.out.println("+---++---+||+---++---+")
-        System.out.println("||+---+")
-}
+         System.out.println("\n    +---+\n    |   |");
+         System.out.println("+---+   +---+\n|           |\n+---+   +---+");
+         System.out.println("    |   |\n    +---+");
+       }
+ }
